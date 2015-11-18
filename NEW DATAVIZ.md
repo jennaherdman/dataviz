@@ -1,5 +1,5 @@
 #The Visual Voice: Distant-Reading and Visualization
-Jenna Herdman & Allie Watson
+**By Jenna Herdman & Allie Watson**
 
 ##Introduction 
 This blog approaches methods of analysis to the study of literature using *big data*. In the study of literature, the method of *close reading* is historically privileged. Close reading entails examining a small piece of a text to analyze the mechanisms of form and style, thus drawing conclusions about the specific workings of the text. For example, what is the significance of a run-on sentence in a moment of crisis for a character? What can be drawn from this passage when understanding the themes of the text as a whole? 
@@ -99,7 +99,7 @@ One concern with all digital media and communication is the content’s accessib
 
 Readers who are blind, have low vision, or are colour blind would have difficulty with this blog. In the name of “universal design,” as espoused by George H. Williams, we need to develop interfaces which blind people can interact with, such as a easily-usable programs which read content aloud. In the case of the visualization itself, perhaps a tool which describes the image in an adjustable amount of detail would be effective. In determining which two colours we should use to represent male and female writers, we decided to avoid the facile and overused pairing of blue and red. However, be cause we wanted to account for colour blind viewers of our visualization, we followed the research of Masataka Okabe and Kei Ito from their paper “Color Universal Design (CUD): How to make figures and presentations that are friendly to Colorblind people.” They caution people against using combinations of red and green and advise that instead, we use magenta or purple with green. 
 
-In general, we have tried to make this blog as universally accessible and user-friendly as possible, by writing in an informal voice, integrating colours and titles, and including hyperlinks which break up the monotony of reading large blocks of text. Williams argues that ultimately, all technology is artificial, and that there is no natural way to interact with it: instead, as he says, “there is only the model we have chosen to think of as natural” (Williams). Perhaps the best we can do is continue to be aware of our reader and consider the intersecting difficulties or strengths that people have when interpreting this sort of text. 
+In general, we have tried to make this blog as universally accessible and user-friendly as we can with our technological skills, by writing in an informal voice, integrating emphasis and titles, and including hyperlinks which break up the monotony of reading large blocks of text. Williams argues that ultimately, all technology is artificial, and that there is no natural way to interact with it: instead, as he says, “there is only the model we have chosen to think of as natural” (Williams). Perhaps the best we can do is continue to be aware of our reader and consider the intersecting difficulties or strengths that people have when interpreting this sort of text. 
 
 
 ##Works Cited 
