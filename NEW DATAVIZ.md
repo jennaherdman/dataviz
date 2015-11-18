@@ -19,7 +19,7 @@ Jane Bingham and Grayce Scholt argue that in the eighteenth century, children’
 
 The data was collected by students in Alan Liu’s English 197 course at the University of California, Santa Barbara [Check it out here](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets). It features over two hundred children’s books published in the 1880’s.  
 
-![Heidi](http://www.geoffreysrarebooks.com/shop_image/product/005061.jpg “Heidi”)[Little Lord Fauntleroy](https://upload.wikimedia.org/wikipedia/en/8/8d/Little-Lord-Fauntleroy-Poster.jpg “Little Lord Fauntleroy)[The Princess and Curdie](http://ecx.images-amazon.com/images/I/51a0fbt6dML._SY344_BO1,204,203,200_.jpg “The Princess and Curdie”)
+![Heidi](http://www.geoffreysrarebooks.com/shop_image/product/005061.jpg)[Little Lord Fauntleroy](https://upload.wikimedia.org/wikipedia/en/8/8d/Little-Lord-Fauntleroy-Poster.jpg)[The Princess and Curdie](http://ecx.images-amazon.com/images/I/51a0fbt6dML._SY344_BO1,204,203,200_.jpg)
 
 ##Paradata 
 
@@ -62,7 +62,7 @@ The form of chart we chose is called a Clustered Force Layout. According to the 
 
 However, without further ado, here is our visualization:
 
-[Visualization](https://pbs.twimg.com/media/CUDTb0nVAAACAzi.png “Visualization of Nineteenth-Century Children’s Lit”)
+![Visualization](https://pbs.twimg.com/media/CUDTb0nVAAACAzi.png)
 
 Each of the three categories we focused on was arranged into a certain string, which determines the layout of the visualization. 
 
@@ -78,7 +78,7 @@ Each of the three categories we focused on was arranged into a certain string, w
 
 Firstly, the clusters of the nationalities are very telling about the hierarchies of this literature. The largest cluster represents authors born in England, demonstrating privilege on the basis of nationality. Interestingly, Ireland has a very small cluster of nodes, and perhaps this is due to the history of the relationship between England and Ireland as it existed under English rule. The Irish existed in the poles of those who were “within the pale,” the walled city of Dublin where the English-Irish lived, spoke and wrote in English and practiced English Protestantism, and those who were “beyond the pale,” the rural, indigenous Irish who spoke Gaelic and practiced Catholicism, and were as a result greatly marginalized and prosecuted for their language and religion on their own land. In the context of literature, the visualization suggests how Irish voices are pushed to the side in the wake of the greater bulk of English voices circulating through society.  
 
-[Beyond the Pale](https://pbs.twimg.com/media/CUDUPB8UwAAn6F2.jpg:large “Beyond the Pale Map”)
+![Beyond the Pale](https://pbs.twimg.com/media/CUDUPB8UwAAn6F2.jpg:large)
 
 Secondly, the binaries of gender are represented through the two colours. It is immediately obvious that there are more male writers of children’s literature publishing in the 1880’s than female. We have already discussed the gendering of literature in the era. Perhaps this says something about whose voices were held responsible and authoritative. Arguably, male writers were taken more seriously than women, and perhaps this shows the serious nature of children’s literature and it’s role in society. The marginalizing of female voices can thus be assumed from this particular visualization. 
 
